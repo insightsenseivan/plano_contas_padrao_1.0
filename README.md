@@ -1,0 +1,1 @@
+# plano_contas_padrao_1.0
